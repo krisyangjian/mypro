@@ -1,2 +1,1 @@
-var test = "126-branch---master";
-var a;
+export var name = 'yangjian';
